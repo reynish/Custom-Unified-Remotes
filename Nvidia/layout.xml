@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout>
+  <row>
+    <button text="Save last 20 minutes" ontap="toggleShadowPlay" />
+  </row>
 	<row>
 		<button text="Manual Record" ontap="toggleManualRecord" />
 	</row>
